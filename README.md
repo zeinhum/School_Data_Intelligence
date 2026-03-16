@@ -109,7 +109,7 @@ The `NavigationManager` class solves this with:
 // Listens via event delegation → routes action → imports module → executes → destroys
 ```
 
-→ See [`/frontend/NavigationManager.js`](./frontend/NavigationManager.js)
+→ See [`navgation`](./javaScript)
 
 **Why this matters:** This replicates what frameworks like React do (component mount/unmount lifecycle, lazy imports) but in ~150 lines of vanilla JS — deliberately, to avoid framework overhead on constrained hardware.
 
