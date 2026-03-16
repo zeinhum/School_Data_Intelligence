@@ -1,4 +1,4 @@
-# School Management System — Engineering Samples
+# School Data Intelligence System — Engineering Samples
 
 > Selected code samples from a production-deployed, LAN-based school management system built in **C# / ASP.NET Core MVC**, **Entity Framework**, **SQLite**, and **Vanilla JavaScript**.  
 > The full system is actively used by a school in a low-connectivity environment.
