@@ -1,4 +1,4 @@
-// generate exam report of class of recent exam
+
 
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
