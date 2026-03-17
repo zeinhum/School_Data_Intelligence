@@ -117,22 +117,22 @@ The `NavigationManager` class solves this with:
 
 ### 5. Python Grade Processor (Earlier System)
 
-Before the full C# system, a Python desktop application was built to replace a fragile Excel-based grading workflow.
+Before the full C# system, a Python quick fix was made with in few hours of demand in early 2026.
 
-**Problem:** An MS Excel grading sheet (built 2020) was working poorly and wasn't accessible across the school network.
+**Problem:** An MS Excel grading sheet (built 2020) was working poorly along with some exceptional errors and wasn't accessible across the school network.
 
 **Solution:**
 - Python reads the existing Excel sheets (preserving the school's data)
 - Processes and generates formatted grade sheets
-- Accessible by multiple users over LAN via student symbol number lookup
-- Currently in daily use by the school
+- Accessible by any users over LAN via student symbol number lookup
+- Solved the issue before the school could be in trouble since the school was a govermenment school.
 
 ```python
-# grade_processor.py
+# calculate_grade.py
 # Ingests Excel → validates → produces grade sheets → serves over LAN
 ```
-
-
+→ See [`Python Flask App`](./python)
+→ Download & Run [`Python Flask App`](https://drive.google.com/drive/folders/1jNjZJGCY01xo5RVAouf_ul915WK4y6YB?usp=sharing)
 
 ---
 
